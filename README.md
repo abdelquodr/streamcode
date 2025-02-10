@@ -43,12 +43,6 @@ Key Features:
 
 **Node version 18.17 or later**
 
-### Cloning the repository
-
-```shell
-git clone https://github.com/AntonioErdeljac/next14-twitch-clone.git
-```
-
 ### Install packages
 
 ```shell
