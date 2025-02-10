@@ -1,4 +1,4 @@
-# Fullstack Twitch Clone: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
+# Fullstack Streaming App: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, Supabase
 
 ![Twitch Clone Thumbnail (3)](https://github.com/AntonioErdeljac/next14-twitch-clone/assets/23248726/6e0153f1-ab30-4924-9f06-13d2f46ff3b5)
 
@@ -36,7 +36,7 @@ Key Features:
 - ⚡ Blazing fast application 
 - 📄 SSR (Server-Side Rendering) 
 - 🗺️ Grouped routes & layouts 
-- 🗃️ MySQL
+- 🗃️ Supabase DB
 - 🚀 Deployment
 
 ### Prerequisites
