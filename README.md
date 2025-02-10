@@ -1,2 +1,2 @@
 # streamcode
-a streaming platofrm
+a streaming platform
