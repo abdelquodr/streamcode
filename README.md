@@ -1,7 +1,7 @@
 # Fullstack Streaming App: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, Supabase
 
 
-This is a repository for Fullstack Trello Clone: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
+This is a repository for Fullstack Streaming app: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, Supabase
 Key Features:
 - 📡 Streaming using RTMP / WHIP protocols 
 - 🌐 Generating ingress
